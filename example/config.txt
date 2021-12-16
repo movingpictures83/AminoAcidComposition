@@ -1,0 +1,2 @@
+Prefix plugins/AminoAcidComposition/example
+Plugin AminoAcidComposition inputfile sequence.txt outputfile results.txt
